@@ -1,0 +1,44 @@
+---
+title: "Punishment for Disobedience"
+id: 7
+slug: "punishment-for-disobedience"
+hero:
+  image: "/images/punishment-for-disobedience.jpg"
+---
+
+
+In the meantime, the chief officer had not forgotten the Finnøybu. The next day I think it was, in the afternoon, he said to me: 'Go down in the cable-tier and take a piece of pork lying there in a box, find a boatswain-stool, and enter up and grease the mizzen masthead and rigging.' I went down and hunted for the port but could not find it. There was an unbearable stench from a box standing there, but I found no pork on opening the lid. On digging deeper, I found something soft which was probably pork, but it was black as coal on the exterior. And oh, how it stunk! There was none other, so I took it and went up. I found a boatswain-stool, entered up and fastened it to the topsail halyard. By this means I could hoist myself up or lower myself to any desired place on the topmast. The weather was fine, with a soft south wind, but quite large swells from the west, so the ship reeled a great deal.
+
+Beginning at the top I greased the mast, but the more I rubbed the stronger the smell of the pork. It was completely rotten and the stench from it was so horrible that I have never smelled anything so bad in all my life, either before or since. Skunk smell is clean perfume in comparison. I wished I could have greased the face and same more of the captain with it.
+
+I had not noticed the slightest sign of seasickness on the whole voyage, but this pork, together with the heaving of the ship, began to be too much for me, and I had to hurry down on deck.
+
+The captain was on the aft half deck, looking at me all the time. I began to understand where the dog was buried. He knew the condition of the pork and the deadly stench it held. Now he would use it to test the patience of the Finnøybu.
+
+When I was thru with the greasing I hurried down, and tried to show the captain it had not affected me in the slightest, but my legs were unsteady as I walked on the deck, and I had to make considerable effort to balance myself till I was on the other side of the round-house, where I threw the port, of which there was still a large piece remaining, and which the captain had told me to save, as far overboard as I could, determined that neither I nor anybody else should ever see it again.
+
+The next day was also fair, with a favorable southerly wind. Then we were ordered to set out our studdingsail yards, as this ship had a full outfit of studding sails. But to use studding sails in these waters, at this time of year, was nothing but slavery. The wind was liable to shift or increase at any time. But it was joy for the captain to drive us to the uttermost.
+
+We put up the studdings, lower and upper topsails and topgallant studdingsails on both sides. It became a spread of sail about 125 feet or more square on the foremast. We had not had them up very long before the wind veered westerly and increased rapidly. We had to brace to. The captain ran to leeward studding halyard, to slack off, but lost his hold on it, whereupon all the studding sails on that side fell down; the studding yard extended from forecourse yard broke, and the whole mess fell into the sea, but the sheets were fastened, so we now had the sails in tow. It was a lot of hard work to get them in.
+
+This was the third example of great seamanship the captain showed us, and we began, in a small way, to understand what kind of sailor he was. It was only by his mouth that he was an extraordinary sailor. But this even proved a benefit to us, nevertheless. We were relieved from the exercise with the bothersome studdingsails, as the boom was broken.
+
+Another day when it began to breeze up0, we hauled in the royal and I was sent up to furl it. The names of the square sails, from below upward, were as follows: Course, lower and upper topsails, top gallant and royal. When I came up on the yard, the captain braced it up against the wind, which was now on our side. I wondered why he did that. I had never seen a yard braced that way when the sail had to be furled. I made the sail fast to windward, then went over to lee. There the sail flapped forth and back over the yard which was now leaning at an angle of about 35 or 40 degrees, because she was listing under the wind.
+
+The seizing or rope used to fasten the sail as rolled up to the yard was fastened out at the yard arm. When we stuck out the sail, we coiled the seizing and tied it to the yard about halfway into the mast. I was trying to loosen the coil when the sail flapped and struck me over the head, nearly knocking me off from the yard. I had to grab the yard with all my might, and in doing so lost hold of the seizing, which fell down and hung full length from the yardarm. What now to do? I had nothing to fasten the sail with, and to go down to the yardarm and get hold of the seizing was extremely hazardous.
+
+The captain stood on the half deck and looked at me, swore a streak and wanted to know if I did not intend to furl the sail soon. Believing I could climb right well, I determined to risk the attempt to get hold of the seizing. Turning both legs about the yard, I slid down to the end, grabbed the rope; but the hardest part was to get back up to the mast.
+
+There I hung, about 125 feet over the water, and nothing but the naked yard to take hold on, and the sail flapping loose overhead and up and down, so the yard shook constantly. If the captain had braced the yard a little to the side of the wind, so the sail could not flap both forward and backward it would have been better, but I now understood that was just what he did not want to do.
+
+I have never been able to believe otherwise than that the captain braced the yard in the manner it was done with the avowed purpose of getting me knocked off the yard. But I could not remain hanging here at the yardarm. I must try to save myself as best I could. Again, I took the yard between my legs, gathered as much as I could of the sail in my arms, crawled slowly up; but time and again a fold of the sail came round my head and threatened to tear me from the yard. Holding fast with desperation as I moved upward, I assured myself this as a life and death struggle. And finally, perfectly exhausted, I reached the mast, with the seizing between my teeth, and threw myself across the yard to windward of the mast.
+
+The captain kept up a constant brawl of curses and yelling. But I let him go it, deciding to rest, which I did for about five minutes, or until I felt some strength returning. I let him curse and dance all he would, and he did rave live a maniac.
+
+Then I rolled up the sail, wound the seizing around it, made fast the end and went down, glad I had got away with my life, but boiling with anger at the captain. I promised myself from that day to guard myself carefully against him, being convinced he would take my life if he could.
+
+The second mate told me that captain had said, now he had been an officer on board ship for forty years but never before had anybody dared to leave him on shore as this Finnøybu had done; but he was determined to teach this young villain something. So, I determined I would have to be on my guard, day, and night.
+
+The next night the gale increased. The caser, or foremost sail on the flying jib boom, flew up and began to strike. It had not been securely fastened. The second mate sent me out to fasten it again. It did not take me many minutes, but just as I was belaying the end of the seizing, the officer called to me to come in. We were to take in the topgallant. I answered and began to crawl in. As I had reached about halfway to the bow, he called again that I must hurry. 'Yes, I am coming at once,' I answered, sprang in over the half deck and down to the fore-rigging. There were two or three men pulling at the halyard. I grabbed the rope and began to pull. Then I heard the captain roar: 'I shall teach you to come when you are called.' Dark as it was, I had not seen the captain. Then I saw him, swinging a heavy rope-end, aiming at my head. Just as it was about to hit me, I saw it and ducked. Instead of me it hit a tight stretched rope or stay near the mast, flew around this, and the end of it recoiled, striking the captain on his wrist. He uttered a howl, like a hob, grabbed his wrist with the other hand, hopped around on the deck and struck up and down with his arms, like a monkey. The whole affair was so comical that I could not keep from laughing. Not wanting the officers to see me laugh, I sneaked away for a few moments to sober up. It was the most joyful moment I had had for some time.
+
+The captain went aft. I did not see him then for a couple of days.

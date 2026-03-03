@@ -1,0 +1,16 @@
+---
+title: "Peaceful Hindoos"
+id: 42
+slug: "peaceful-hindoos"
+hero:
+  image: "/images/peaceful-hindoos.jpg"
+---
+
+
+The unloading of coal began. A large lighter was brought along-side, and with it about 80 hindoos or coolies. It is too hot here for Europeans to do such hard work. These coolies were from brown to black in color, had long black hair which was formed into a knot on top of the head, and over it was tied a colored silk cloth which appeared like a cap or turban. They went naked, except for a small breechcloth tied between the legs and around the hips.
+
+In some small, light baskets, they took about 20 pounds of coal at a time and handed it over the railing into the lighter. At this rate one may well understand it took a long time and many hands to unload the cargo. When tehy came down to the bottom of the hold scaffolding was set up so the baskets could be handed up from man to man, and while a great many baskets went up and down during an hour still the work was slow. It took 3 weeks to unload. Of course, one could not expect these coolies to work fast. They were no accustomed to hurry, neither were they paid very much; only 2-1/2 pence per day, that is, about 5 cents. But whether at small or big wages, some of them wore, in spite of all, up to a dozen thick silver rings round their legs above the ankles, and probably 3 or 4 round their writs; also several ear and finger rings, and some of them even had rings in their noses. Thus they carried their riches on their persons. When they had earned some money they did not have use for immediately, another silver ring had to be secured and put on somewhere. That was their bank. They lived unbelievably cheap. They ate boiled rice, which was inexpensive, and wore next to no clothes. The bamboo huts they lived in cost them nothing but a few hours' work. Household goods they did not have, nor did they have use for table ware. Of cooking utensils they had a kettle in which to boil the rice. When the rice was cooked 6 or 8 of them would get around the kettle, take the rice with their hands, press it into a lump suitable to take a bite from, then throw the rest back into the kettle, stir it together with the remainder there, take up another handful, take another bite, and so on. They washed their hands, though, before and after eating.
+
+It is remarkable how a great majority of humanity lives on very little or at very small cost. And it appeared that these were just as well satisfied as those of our race who need everything, or probably these were much more contented than those. We have come into a status of civilization where it appears we need an endless variety of expensive things for our daily existence, and this status puts us in slavery from which the hindoos would no doubt pray their gods to save them.
+
+They are a very religious people. They carried small mats with them, even aboard ship, and at the noon hour, after they had dined, each would seek a spot of seclusion, put down his mat and kneel on it. They did not pray aloud, but mumbled something half audible, of which we could sometimes hear the words, 'Dalai Lama', probably the name of their god.

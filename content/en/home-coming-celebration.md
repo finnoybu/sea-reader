@@ -1,0 +1,31 @@
+---
+title: "Home-coming Celebration"
+id: 10
+slug: "home-coming-celebration"
+hero:
+  image: "/images/home-coming-celebration.jpg"
+---
+
+
+To think – we were home again, - and free. It seemed like three years since we left here, but it was only a little over three months. I never experienced so much in so short time all the rest of my life. The reader may think this story is at an end. Not yet. Third act is yet to come. It is the plum in the pudding.
+
+It was about 6:00 o'clock P.M. when we were free. All hands washed and changed into their best clothes, to go ashore as soon as possible. The steward, carpenter and myself did not have any relatives or close friends living in town, to visit, so we decided to stay on board till the next morning. When the others had all gone ashore, the steward came and invited the carpenter and myself to the cabin for a fest. This we readily accepted. We went aft, took possession of the captain's salon, found ourselves chairs and sat at table. The steward went into the provision room and returned with a large mug of the captain's port wine. He filled three big bowls, and said: 'Skaal, - Health to the captain and his beautiful ship.' And that health we drank most heartily. Then the steward brought us many of the captain's delicatessen and dainties, which we consumed with good appetite. The steward was sure we had deserved all we ate and drank. Here we sat, the three best friends on board, having a rattling good entertainment and feed right in the tyrant's own cabin, drank his wine and ate his dainties. Yes, - now he should see us. We lit our pipes, talked over the events of the voyage, sang a few verses, and then took more of the good wine of our chief. I do not remember all the songs we sang, though there was one, particularly suitable for the occasion. The chorus was about like this:
+
+> _Our captain has a lot of money, - lot of money;
+> It is not easy to come near to him, - near to him;
+> Because he has a cudgel in hi o'coat pocket; o'coat pocket;
+> And he drinks, drinks as a sponge, - a sponge._
+
+About midnight we arose from this high festivity. The steward gave us each a bottle of wine to take along to our quarters; and we went forward in the happy feeling that next morning nobody would call us to work, but we could sleep as long as we wanted.
+
+But the next morning, about 8:00 o'clock, the 1st mate came in and called us, asking if we would help take some orange cases and some kegs of wine up to the custom house. I have to confess we did not feel much like going to work that day, but as he made the request very courteously and promised us extra pay, - I believe two crowns each, - we decided better not refuse.
+
+We dressed, ate breakfast, and made ready to work, taking the cases and kegs in a boat and rowed over to the customhouse landing. At first, we took one case of oranges at a time and carried from the landing to the customhouse. The cases were quite heavy, there being 200 large oranges in each, and there were more than 20 cases all told. I thought it took too long to take only one case at a time, so I attempted to take two, one under each arm. When I came about halfway over to the customhouse door, there stood John Stensøy, talking to the captain, right in my way. With my burden I was probably somewhat bent over and not as straight backed as a sergeant; and as I was passing the captain blurted out: 'Now see that Finnøybu, walking like a cow.' But he should not have said that. It broke the retaining wall of all the ill-feeling stored up against him on account of all the unfair treatment I had endured.
+
+Dropping the cases on the pavement, I said: 'You would call somebody a cow. You who are guilty of attempts to kill your men while you are drunk, because they left you ashore after waiting twelve hours for you, without food, while you were at drunken carousals in town; - you who, while drunk also attempted to kill your men with a salt-shovel, after they had worked at shoveling salt from Sunday noon till midnight; you, who bombarded the Portuguese with salt-lumps because they put salt on deck, which you had yourself ordered them to do; you, who will on occasion roll around and vomit all over your cabin floor, dead drunk; you would call anybody a cow, you tyrannical hog.' Both of them stared at me in open-mouthed astonishment, not saying a word, as if they were listening to a judgment passed against them.
+
+I took up the cases and went into the customhouse with them. Looking back, I saw them standing there like statues, and wondered what this might mean. Before I came out again, they had disappeared.
+
+Our work completed, we went aboard, gathered up our belongings and left the ship. Then there came a message from the office of the principal owner of the ship that the carpenter and I were to report at his office. 'Well,' I thought, 'now I shall probably be arrested and brought to trial on my merits or demerits, but it will have to go as it may.' We came up to the owner's office and were directed to come in. He had never seen us before, and demanded to know our names, which we told him. Then he said: 'Is it true this that we have heard?' 'What?' I said. 'That the captain drinks so much?' 'Yes,' I said, 'it is true, every word of it.' The carpenter verified my statement. Then the owner shook his head, saying: 'This is too bad.' He thanked us, paid us the money we had coming, for which we thanked him, and then bade him goodbye.
+
+John Stensøy had gone to the owner with a report of what I said to the captain near the customhouse. Thus, we had given him another fillip on the nose, which he so deserved. I heard later that the captain had to go on his knees before the owners, beg pardon and promise to turn over a new leaf. And not enough with that. He also had to join the temperance society, in order to retain his position as captain of the ship. John Stensøy was later reported to have said that he would never have believed, if he had not seen it, that I dared to face and talk to the captain as I did. But children will act in the way they are brought up. I thought I must be a sailor, as I had received my baptism in salt water, both outwardly and inwardly. I believe both John Stensøy and the captain had to admit I had learned my seaman's confirmation lesson.
