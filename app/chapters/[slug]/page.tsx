@@ -4,6 +4,7 @@ import { getChapterBySlug, getAdjacentChapters, getAllChapters } from '@/lib/cha
 import Hero from '@/components/Hero'
 import ReaderShell from '@/components/ReaderShell'
 import ReaderSettings from '@/components/ReaderSettings'
+import ReadingProgressTracker from '@/components/ReadingProgressTracker'
 
 interface ChapterPageProps {
   params: {
@@ -34,6 +35,7 @@ export default function ChapterPage({ params }: ChapterPageProps) {
 
   return (
     <>
+      <ReadingProgressTracker chapterSlug={params.slug} />
       <ReaderShell>
         <Hero title={chapter.title} />
 

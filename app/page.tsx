@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import { getAllChapters } from '@/lib/chapters'
+import ReadingProgress from '@/components/ReadingProgress'
 
 export default function Home() {
   const chapters = getAllChapters()
@@ -7,9 +8,11 @@ export default function Home() {
   return (
     <main className="p-8 max-w-3xl mx-auto">
       <h1 className="text-4xl font-bold mb-2">Sea Reader</h1>
-      <p className="text-lg text-slate-600 mb-8">
+      <p className="text-lg text-slate-600 dark:text-slate-400 mb-8">
         A governed reader platform. Browse {chapters.length} chapters below.
       </p>
+
+      <ReadingProgress />
 
       {chapters.length > 0 ? (
         <div className="space-y-2">
