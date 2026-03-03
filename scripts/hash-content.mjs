@@ -68,7 +68,9 @@ for (const line of lines) {
   const exp = expected.get(rel.trim());
   if (!exp || exp !== h.trim()) {
     ok = false;
-    console.error("Hash mismatch:", rel.trim());
+    console.error(`Hash mismatch: ${rel.trim()}`);
+    console.error(`  expected: ${exp ?? "<missing>"}`);
+    console.error(`  actual:   ${h.trim()}`);
   }
 }
 

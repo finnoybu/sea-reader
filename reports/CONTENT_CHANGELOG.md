@@ -1,5 +1,13 @@
 # Content Changelog
 
+## v0.1.1 (2026-03-03)
+
+### Hashing Policy Update (Determinism + Metadata Tolerance)
+- Changed hashing scope to **hash markdown body only** (frontmatter excluded)
+- Normalized line endings during hashing for cross-platform determinism (Windows/Linux)
+- Regenerated SHA256 baseline hashes
+- No manuscript prose/body changes were made intentionally; only frontmatter was auto-corrected earlier during ingestion
+
 ## v0.0.5 (2026-03-03)
 
 ### Initial Manuscript Ingestion
