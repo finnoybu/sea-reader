@@ -1,0 +1,15 @@
+meta:
+  version: "v0.1.0"
+  description: "Copy deterministic Next.js scaffold into governed repo."
+  branch: "feature/v0.1.0-application-bootstrap"
+  tag: "v0.1.0"
+
+steps:
+  - Copy scaffold into repository root
+  - Install dependencies with pnpm
+  - Run pnpm build
+  - Commit and open PR
+
+validation:
+  - Build passes
+  - Preview deployment works

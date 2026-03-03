@@ -1,28 +1,48 @@
 {
   "name": "sea-reader",
-  "version": "1.0.0",
+  "private": true,
+  "version": "0.1.0",
   "description": "Governed reader platform. See GOVERNANCE_CHARTER.md and COPILOT_MASTER_INDEX.yaml.",
-  "main": "index.js",
-  "directories": {
-    "doc": "docs"
+  "packageManager": "pnpm@9.0.0",
+  "engines": {
+    "node": ">=24 <25"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "validate:versioning": "node scripts/validate-versioning.mjs",
+    "validate:frontmatter": "node scripts/validate-frontmatter.mjs",
+    "validate:content-hashes": "node scripts/hash-content.mjs --verify"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/finnoybu/sea-reader.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
   "bugs": {
     "url": "https://github.com/finnoybu/sea-reader/issues"
   },
   "homepage": "https://github.com/finnoybu/sea-reader#readme",
+  "dependencies": {
+    "@next/mdx": "14.2.5",
+    "@mdx-js/loader": "^3.1.1",
+    "@mdx-js/react": "^3.1.1",
+    "ajv": "8.18.0",
+    "gray-matter": "4.0.3",
+    "next": "14.2.5",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
   "devDependencies": {
-    "ajv": "^8.18.0",
-    "gray-matter": "^4.0.3"
+    "@types/node": "20.12.7",
+    "@types/react": "18.3.3",
+    "autoprefixer": "10.4.19",
+    "eslint": "8.57.0",
+    "eslint-config-next": "14.2.5",
+    "postcss": "8.4.38",
+    "tailwindcss": "3.4.4",
+    "typescript": "5.5.4"
   }
 }
