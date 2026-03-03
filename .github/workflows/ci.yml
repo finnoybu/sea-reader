@@ -27,10 +27,10 @@ jobs:
           node-version: "20"
       - name: Validate frontmatter schema
         run: |
-          if [ -f scripts/validate-frontmatter.mjs ]; then node scripts/validate-frontmatter.mjs; else echo "No content validation script yet."; fi
+          if [ -d content/en ] && [ -f scripts/validate-frontmatter.mjs ]; then node scripts/validate-frontmatter.mjs; else echo "No content to validate yet (placeholder)."; fi
       - name: Verify content hashes
         run: |
-          if [ -f scripts/hash-content.mjs ] && [ -f reports/content_hashes.sha256 ]; then node scripts/hash-content.mjs --verify; else echo "No hash verification configured."; fi
+          if [ -f scripts/hash-content.mjs ] && [ -f reports/content_hashes.sha256 ]; then node scripts/hash-content.mjs --verify; else echo "No hash verification configured (placeholder)."; fi
 
   lint:
     name: CI / lint
