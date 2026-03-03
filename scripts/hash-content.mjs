@@ -34,8 +34,12 @@ const files = walk(contentRoot)
 const lines = files.map(f => {
   const rel = path.relative(process.cwd(), f).replaceAll("\\\\", "/");
   const raw = fs.readFileSync(f, "utf8");
-  const { content } = matter(raw); // 🔒 hash BODY only
-  const h = sha256(Buffer.from(content, "utf8"));
+  const { content } = matter(raw);
+
+  // 🔒 Normalize line endings for cross-platform determinism
+  const normalized = content.replace(/\r\n/g, "\n");
+
+  const h = sha256(Buffer.from(normalized, "utf8"));
   return `${h}  ${rel}`;
 });
 
